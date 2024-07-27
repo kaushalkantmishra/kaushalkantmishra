@@ -13,12 +13,12 @@
     
 ## 🙋‍♂️ About Me
 
-- <img alt="GIF" src="https://github.com/kaushalkantmishra/kaushalkantmishra/blob/main/Assets/wave.gif" width="20px" /> I'm currently _learning_ **DevOps** & **AI**
-- <img alt="GIF" src="https://github.com/kaushalkantmishra/kaushalkantmishra/blob/main/Assets/gandalf_parrot.gif" width="20px" /> I’m looking to collaborate on **OpenSource Projects**
+- <img alt="GIF" src="https://github.com/kaushalkantmishra/kaushalkantmishra/blob/main/Assets/wave.gif" width="20px" /> I'm currently _learning_ **Next.js** & **Typescript**
+- <img alt="GIF" src="https://github.com/kaushalkantmishra/kaushalkantmishra/blob/main/Assets/gandalf_parrot.gif" width="20px" /> I’m looking to collaborate on **OpenSource Projects** & fulltime opportunities as a **fullstack developer**
 - <img alt="GIF" src="https://github.com/kaushalkantmishra/kaushalkantmishra/blob/main/Assets/headbang.gif" width="20px" /> All of my projects are available at **[My Github Account](https://github.com/kaushalkantmishra?tab=repositories)**
-- <img alt="GIF" src="https://github.com/kaushalkantmishra/kaushalkantmishra/blob/main/Assets/Handshake.gif" width="20px" /> You can reach me at [linkedin!][linkedin] or send me a personalized **<a href="mailto:kaushal@youremail.com?subject=Hola%20Kaushal">mail</a>**
+- <img alt="GIF" src="https://github.com/kaushalkantmishra/kaushalkantmishra/blob/main/Assets/Handshake.gif" width="20px" /> You can reach me at [linkedin!][linkedin] or send me a personalized **<a href="mailto:kaushalkantmishra127@gmail.com?subject=Hola%20Kaushal">mail</a>**
 - <img alt="GIF" src="https://github.com/kaushalkantmishra/kaushalkantmishra/blob/main/Assets/happy.gif" width="20px" /> I try to: Go beyond and push the bounds
-- <img alt="GIF" src="https://github.com/kaushalkantmishra/kaushalkantmishra/blob/main/Assets/Rocket.gif" width="20px" /> Fun fact **I love reading books and Building stuff.**
+- <img alt="GIF" src="https://github.com/kaushalkantmishra/kaushalkantmishra/blob/main/Assets/Rocket.gif" width="20px" /> Fun fact **I love learning new text tech and Building stuff.**
 
 ## 🚀 Languages and Tools:
 
@@ -33,7 +33,11 @@
 <img align="left" alt="React" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="git-scm" width="35px" src="https://img.icons8.com/color/48/000000/git.png" />
-<img align="left" alt="android" width="35px" src="https://img.icons8.com/fluency/48/000000/android-os.png" />
+<img align="left" alt="MongoDB" width="35px" src="https://img.icons8.com/color/48/000000/mongodb.png" />
+<img align="left" alt="Express.js" width="35px" src="https://img.icons8.com/color/48/000000/express.png" />
+<img align="left" alt="Next.js" width="35px" src="https://img.icons8.com/fluency/48/000000/nextjs.png" />
+<img align="left" alt="TypeScript" width="35px" src="https://img.icons8.com/color/48/000000/typescript.png" />
+
 <img align="left" alt="firebase" width="35px" src="https://img.icons8.com/color/48/000000/google-firebase-console.png" />
 <img align="left" alt="figma" width="35px" src="https://img.icons8.com/color/48/000000/figma--v2.png" />
 </p>
@@ -54,20 +58,20 @@
 <br/>
 <br/>
 
-![Kaushal's Last 30 Days Github Activity Graph](https://gaurav-github-readme-activity-graph.vercel.app/graph?username=kaushalkantmishra&theme=tokyo-night)
+![Kaushal's Last 30 Days Github Activity Graph](https://kaushal-github-readme-activity-graph.vercel.app/graph?username=kaushalkantmishra&theme=tokyo-night)
 
 ## Connect with me:
 
 <p align="left">
-<a href="https://www.linkedin.com/in/kaushalkantmishra/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="https://twitter.com/kaushalkantmishra"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/></a>&nbsp;
-<a href="mailto:contact.kaushalkantmishra@gmail.com?subject=Hola%20Kaushal"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-<a href="https://www.instagram.com/kaushalkantmishra/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/kaushal-kant-mishra/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="https://twitter.com/KaushalkantMis1"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/></a>&nbsp;
+<a href="mailto:contact.kaushalkantmishra127@gmail.com?subject=Hola%20Kaushal"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<a href="https://www.instagram.com/__mahakals__/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
 </p>
 
 <div align="center">
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 </div>
 
-[instagram]: https://instagram.com/kaushalkantmishra
-[linkedin]: https://www.linkedin.com/in/kaushalkantmishra/
+[instagram]: https://www.instagram.com/__mahakals__/
+[linkedin]: https://www.linkedin.com/in/kaushal-kant-mishra/
