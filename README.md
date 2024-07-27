@@ -2,7 +2,7 @@
 
 # I'm [Kaushal!](https://www.linkedin.com/in/kaushal-kant-mishra/)
 
-<h3 align="center">I'm a MERN Stack Developer and now Next.js and Typescript.</h3>
+<h3 align="center">I'm a MERN Stack Developer and now learning Next.js and Typescript.</h3>
 
 <p align="center">
 <a href="https://github.com/kaushalkantmishra/github-profile-views-counter">
