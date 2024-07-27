@@ -1,8 +1,6 @@
-## Hi there
+## Hi there<img alt="GIF" src="https://github.com/kaushalkantmishra/kaushalkantmishra/blob/main/Assets/Hi.gif" width="29px">
 
-<img alt="GIF" src="https://github.com/kaushalkantmishra/kaushalkantmishra/blob/main/Assets/Hi.gif" width="29px">
-
-# I'm [Kaushal!](https://www.google.com/search?q=https://www.linkedin.com/in/kaushal-kant-mishra/)
+# I'm [Kaushal!](https://www.google.com/search?q=www.linkedin.com/in/kaushal-kant-mishra/)
 
 <h3 align="center">I'm a Ex-Android Developer and now learning AI & DevOps.</h3>
 
