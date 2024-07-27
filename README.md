@@ -1,11 +1,11 @@
-## Hi there<img alt="GIF" src="https://github.com/kaushalkantmishra/kaushalkantmishra/blob/main/Assets/Hi.gif" width="29px">
+## Hi there <img alt="GIF" src="https://github.com/kaushalkantmishra/kaushalkantmishra/blob/main/Assets/Hi.gif" width="29px">
 
-# I'm [Kaushal!](https://www.google.com/search?q=www.linkedin.com/in/kaushal-kant-mishra/)
+# I'm [Kaushal!](https://www.linkedin.com/in/kaushal-kant-mishra/)
 
-<h3 align="center">I'm a Ex-Android Developer and now learning AI & DevOps.</h3>
+<h3 align="center">I'm a MERN Stack Developer and now Next.js and Typescript.</h3>
 
 <p align="center">
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="https://github.com/kaushalkantmishra/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=kaushalkantmishra">
 </a>
 <a href="https://github.com/kaushalkantmishra?tab=followers"><img src="https://img.shields.io/github/followers/kaushalkantmishra?label=Followers&style=social" alt="GitHub Badge"></a>
